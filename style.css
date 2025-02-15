@@ -75,7 +75,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 50vh;
+    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -886,16 +886,16 @@ a.btn-location {
    
    
     .container .logo {
-        font-size: 2rem;
+        font-size: 1.2rem;
         margin-right: auto;
     }
 
     .container a {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
 
-    .hero h1 {
-        font-size: 3rem;
+    .hero-text h1 {
+        font-size: 2rem;
     }
 
 
@@ -909,71 +909,71 @@ a.btn-location {
       }
 
     .product-card {
-        max-width: 500px;
+        max-width: 300px;
     }
 
     .product-card img {
         width: 100%;
-        max-width: 350px;
+        max-width: 200px;
         height: auto;
         border-radius: 10px;
         margin-bottom: 15px;
     }
 
     #products h2 {
-        font-size: 2.5rem;
+        font-size: 1.8rem;
     }
     .product-card h3 {
-        font-size: 2rem;
+        font-size: 1.4rem;
     }
     .product-card p {
-        font-size: 1.4rem;
+        font-size: 1rem;
     }
 
     #testimonials h2 {
-        font-size: 2.5rem;
+        font-size: 1.8rem;
     }
 
     .testimonial h2 {
-        font-size: 2rem;
+        font-size: 1.2rem;
     }
     
     .testimonial p {
-        font-size: 1.4rem;
+        font-size: 0.8rem;
     }
 
     .testimonial h3 {
-        font-size: 1.45rem;
+        font-size: 0.7rem;
     }
 
     #custom-orders img {
         width: 100%;
-        max-width: 550px;
+        max-width: 400px;
         height: auto;
         border-radius: 10px;
         margin-bottom: 15px;
     }
 
   #custom-orders h2 {
-    font-size: 2.5rem;
+    font-size: 1.8rem;
   }
 
   #custom-orders p {
-    font-size: 1.4rem;
+    font-size: 1rem;
     line-height: 45px;
   }
 
   .custom-order-btn {
-    height: 80px;
-    width: 300px;
+    height: 60px;
+    width: 200px;
     border-radius: 40px;
   }
 
   .custom-order-text a {
     font-weight: bold;
     text-decoration: none;
-    font-size: 1.6rem;
-    margin: 0px;
+    font-size: 1rem;
+    justify-items: center;
     padding: 20px;
 }
 
